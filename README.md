@@ -29,3 +29,7 @@ The models are trained on a spam dataset, and predictions are made based on inco
 - **TF-IDF Vectorization**: For text preprocessing and feature extraction.
 - **Pickle**: To save trained models and vectorizer.
 - **Smtplib**: To integrate email functionality for real-time predictions and alerts.
+
+
+## Dataset
+   Spam email dataset from kaggle
