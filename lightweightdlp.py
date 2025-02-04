@@ -14,7 +14,7 @@ from google.colab import files
 uploaded = files.upload()
 
 # Load the dataset
-df = pd.read_csv('spam.csv',encoding='latin-1')
+df = pd.read_csv('your_datset.csv',encoding='latin-1')
 
 # Split the data into training and testing sets
 X = df['v2']
